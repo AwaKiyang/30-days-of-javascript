@@ -5,7 +5,7 @@ const mernStack = ['MongoDB','Express','React','Node']
 for(a=0; a<=10; a++){
     console.log(a)
 }
-// iterate using while loop
+// iterate using while loopf
 let b = 0
 while(b<=10){
     console.log(b)
