@@ -26,7 +26,7 @@ console.log(Math.round(9.81)) //round to nearrest whole number
 console.log(Math.floor(PI)) //rounds down
 console.log(Math.ceil(PI)) //round up
 console.log(Math.min(-5, 3, 20, 4, 5)) //dispalys the minimum number
-console.log(Math.max(-5, 3, 20, 4, 5)) //displays the maximum number
+console.log(Math.max(-5, 3, 20, 4, 5)) //displays the maximum numberf
 console.log(Math.random()) //displays a random number btw 0 an 0.99
 
 //using the Math.random object i'll make a code which give a random number from 0 to ten
